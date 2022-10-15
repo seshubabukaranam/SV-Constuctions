@@ -1,5 +1,5 @@
 body {
-  background-color: #98fb98;
+  background-color: #c6e4c6;
 }
 h1{
   color:#4B0082;
@@ -13,4 +13,7 @@ hr {
   border-color: grey;
   border-width:5px;
   width: 50%;
+}
+.contact {
+ text-align: center;
 }
